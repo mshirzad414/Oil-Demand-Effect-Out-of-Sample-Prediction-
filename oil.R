@@ -52,3 +52,4 @@ ggplot() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))+
   labs(x ='WTI vs Oil Demand Only ' , y = 'dollar per barrel', title = 'Figure 3:WTI Crude Estiamte Demand Effect')
 
+# the graph above shows the ggplot 
